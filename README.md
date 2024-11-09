@@ -1,9 +1,7 @@
-# 👋 Hi there, I'm Dhanendra!
+<h1 align="center">Hi 👋, I'm Dhanendra Kumar</h1>
+<h3 align="center">Welcome to my GitHub profile!</h3>
 
-Welcome to my GitHub profile!
 I'm a passionate **Data Analyst** focused on turning data into meaningful insights through analysis and visualization. Recently, I graduated from Masai School's Data Analysis program, and I've been building my expertise with tools like **Python**, **Power BI**, **MySQL**, **Excel**, **Web-Scraping**, and more.
-
----
 
 ### 🔍 About Me
 - 🎓 **Education**: B-Tech in CSE (May 2024)
@@ -14,38 +12,50 @@ I'm a passionate **Data Analyst** focused on turning data into meaningful insigh
 - **🌱 Currently Learning**: Web-Scrapping, Machine Learning, Advanced data analytics and visualization techniques.
 - **💡 Interests**: Data storytelling, end-to-end analytics solutions, and deploying interactive data applications.
 
-I'm excited to apply my skills to solve real-world problems, and I'm particularly interested in data projects that drive insights into energy, sustainability, and safety.
+<h3 align="left">Skills-Tools-Technology:</h3>
+<p align="left">
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 50px;"/> 
+   </a>
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin-right: 50px;"/> 
+   </a>
+   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" height="50" style="margin-right: 50px;"/>
+   </a>
+   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+       <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50" style="margin-right: 50px;"/></a> 
+   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50" style="margin-right: 50px;"/></a> 
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin-right: 50px;"/></a> 
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin-right: 50px;"/></a> 
+   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="margin-right: 50px;"/> </a> 
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin-right: 50px;"/> 
+   </a> 
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin-right: 50px;"/> 
+   </a> 
+   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" style="margin-right: 50px;"/> 
+</p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhanendra&show_icons=true&locale=en&layout=compact" alt="thedhanendra" /></p>
+
+<h3 align="left">📫 Connect with Me:</h3>
+<p align="left">
+<a href="mailto:dhanendra.std@gmail.com" target="blank">
+        <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="Email" height="30" width="40"/> </a>
+<a href="https://linkedin.com/in/thedhanendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thedhanendra" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thedhanendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thedhanendra" height="30" width="40" /></a>
+</p>
 ---
-
-### 🚀 Projects
-
-Here are some projects that highlight my skills and experience:
-
-#### 📊 [CO2 Emission Data Analysis](https://github.com/yourusername/co2-emission-analysis)
-   - **Description**: Analyzed and visualized CO2 emissions data across various regions to highlight trends and impacts.
-   - **Tech Stack**: Power BI, SQL
-   - **Project Type**: Data Analysis
-   - **Deployed Link**: [Power BI Dashboard](#)
-   - **Video Walkthrough**: [Watch here](#)
-
-#### 🌞 [Solar Power Plant Performance Dashboard](https://github.com/yourusername/solar-power-dashboard)
-   - **Description**: A Streamlit dashboard for comparing solar plant performance metrics using live data.
-   - **Tech Stack**: Python, Streamlit
-   - **Project Type**: Fullstack
-   - **Deployed Link**: [Live Dashboard](#)
-   - **Video Walkthrough**: [Watch here](#)
-
-
----
-
-### 📫 Connect with Me
-- **Email-Id**: dhanendra.std@gmail.com 
-- **LinkedIn**: [Dhanendra Kumar]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/dhanendra-kumar-thedhanendra/))
-- **Leet Code**: [Dhanendra Kumar](https://leetcode.com/u/theDhanendra/)
 
 Feel free to explore my projects, and let’s connect if you’d like to collaborate!
 
 ---
 
-Thank you for visiting my profile! 😊
+<h3>Thank you for visiting my profile! 😊 </h3>
