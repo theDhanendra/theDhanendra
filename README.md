@@ -43,7 +43,6 @@ I'm a passionate **Data Analyst** focused on turning data into meaningful insigh
        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50" style="margin-right: 50px;"/> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedhanendra&show_icons=true&locale=en&layout=compact" alt="thedhanendra" /></p>
 
 <h3 align="left">📫 Connect with Me:</h3>
 <p align="left">
