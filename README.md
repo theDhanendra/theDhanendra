@@ -62,7 +62,7 @@ I'm a passionate **Data Analyst** focused on turning data into meaningful insigh
    <a href="mailto:dhanendra.std@gmail.com" target="_blank"> 
        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" alt="Gmail" width="100" height="50"/>
    </a>
-   <a href="https://linkedin.com/in/thedhanendra" target="_blank">
+   <a href="https://www.linkedin.com/in/dhanendra-kumar-thedhanendra/" target="_blank">
        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" width="100" height="50"/>
    </a>
 </p>
