@@ -55,7 +55,6 @@ I'm a passionate **Data Analyst** focused on turning data into meaningful insigh
 ---
 
 Feel free to explore my projects, and let’s connect if you’d like to collaborate!
-
 ---
 
 <h3>Thank you for visiting my profile! 😊 </h3>
